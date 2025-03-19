@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+这里是翁百韵的github主页，这里记录了一些他的故事和代码。
 <!--
 **chewing0/chewing0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
